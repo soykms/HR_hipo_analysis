@@ -1,3 +1,4 @@
+[Power BI link](https://www.novypro.com/project/hr-high-performance-analysis-power-bi)
 
 ***[Assignment 1] What Characteristics Do Our Company's Top Performers Have?***
 

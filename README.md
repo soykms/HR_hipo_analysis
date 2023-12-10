@@ -13,7 +13,7 @@ Draw logical conclusions based on the given data and domain knowledge (if no dom
 
 ****
 
-***[Assignment 2] Identifying Key Factors Leading to Retirement (Using the Same Data as Assignment 1)***
+***[Assignment 2] Identifying Key Factors Leading to Retirement***
 
 * Please summarize the characteristics of our members' job performance in the following factors in a table and graph:
   - Distance From Home
@@ -29,7 +29,7 @@ Example: Employees with better work-life balance are likely to have lower attrit
 
 ***
 
-**[과제1] 우리 회사의 우수 성과자들은 어떤 특성을 가지고 있는가?**
+***[과제1] 우리 회사의 우수 성과자들은 어떤 특성을 가지고 있는가?***
 <br>
 * 구성원의 업무 성과별 다음 요인의 특징을 표와 그래프로 정리 
   - 경력기간(TotalWorkingYears) 
@@ -44,7 +44,7 @@ Example: Employees with better work-life balance are likely to have lower attrit
 
 ****
 
- **[과제2] 퇴직을 촉발하는 주요 요인 발굴(과제1과 동일 데이터 사용)**
+ ***[과제2] 퇴직을 촉발하는 주요 요인 발굴(과제1과 동일 데이터 사용)***
 
 * 구성원의 업무 성과별 다음 요인의 특징을 표와 그래프로 정리
    - 집과의 거리(DistanceFromHome)
